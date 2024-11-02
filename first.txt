@@ -5,4 +5,6 @@ Gitの練習をしていきます。
 ・git remove
 ・git status
 ・git diffs
-・git merge
+・コンフリクト
+・FEATUE　COMFLICT
+・pull request
